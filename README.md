@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 💙💙
+**Boas vindas ao meu perfil** 💙💙
 
 Meu nome é Leticia Gabriela
 
@@ -6,7 +6,6 @@ Meu nome é Leticia Gabriela
 - Estou me desenvolvendo na linguagem JavaScript
 - Meus pronomes são Ela/dela
 
-Você pode entrar em contato comigo 📫
-
+**Voce pode entrar em contato comigo** 📫
 00001121183335sp@al.educacao.sp.gov.br
 
