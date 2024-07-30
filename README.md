@@ -10,4 +10,3 @@ Você pode entrar em contato comigo 📫
 
 00001121183335sp@al.educacao.sp.gov.br
 
-! [] https://pin.it/3XVt0KjcX
